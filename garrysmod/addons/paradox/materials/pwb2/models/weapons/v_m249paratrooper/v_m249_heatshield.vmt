@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	"$baseTexture" "pwb2/models/weapons/v_m249paratrooper/heatshield"
+
+	"$bumpmap"		"pwb2/models/weapons/v_m249paratrooper/heatshield norm"
+
+	"$nocull" "1"
+
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" 		"1"
+	"$phongexponent" 	"30"
+	"$phongboost" "0.75"
+	"$phongfresnelranges" "[1 3 6]"
+}

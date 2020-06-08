@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$basetexture   "pwb2/models/weapons/v_p90/legendary_diff"
+$bumpmap   "pwb2/models/weapons/v_p90/legendary_norm"
+}

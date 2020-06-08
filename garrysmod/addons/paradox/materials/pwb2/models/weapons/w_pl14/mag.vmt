@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$basetexture   "pwb2/models/weapons/v_pl14/mag_diff"
+$bumpmap   "pwb2/models/weapons/v_pl14/mag_norm"
+}

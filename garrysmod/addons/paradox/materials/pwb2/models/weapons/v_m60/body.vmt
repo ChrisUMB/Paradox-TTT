@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "pwb2/models/weapons/v_m60/body"
+"$envmap" "env_cubemap"
+"$envmapmask" "pwb2/models/weapons/v_m60/body_ref"
+}
+

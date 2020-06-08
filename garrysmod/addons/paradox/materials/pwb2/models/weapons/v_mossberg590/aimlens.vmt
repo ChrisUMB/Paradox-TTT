@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$translucent			1
+	$baseTexture 			"pwb2/models/weapons/v_mossberg590/aimlens"
+}

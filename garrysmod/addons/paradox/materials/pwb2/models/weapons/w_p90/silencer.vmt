@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$basetexture   "pwb2/models/weapons/v_p90/silencer_diff"
+$bumpmap   "pwb2/models/weapons/v_p90/silencer_norm"
+}

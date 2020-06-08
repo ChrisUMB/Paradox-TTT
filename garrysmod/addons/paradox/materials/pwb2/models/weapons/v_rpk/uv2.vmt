@@ -1,0 +1,6 @@
+//flash hider texture, currently invisible
+"vertexlitgeneric"
+{
+	"$basetexture" "pwb2/models/weapons/v_rpk/uv2"
+	"$alphatest" 1
+}

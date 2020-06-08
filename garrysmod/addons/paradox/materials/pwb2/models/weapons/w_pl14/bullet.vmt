@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$basetexture   "pwb2/models/weapons/v_pl14/bullet_diff"
+$bumpmap   "pwb2/models/weapons/v_pl14/bullet_norm"
+}

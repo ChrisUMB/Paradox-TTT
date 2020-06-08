@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+    	"$basetexture"  "pwb2/models/weapons/v_pkm/PKM_D"
+   	"$bumpmap"     "pwb2/models/weapons/v_pkm/PKM_N"
+}

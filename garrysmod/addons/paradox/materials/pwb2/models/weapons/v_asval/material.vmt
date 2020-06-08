@@ -1,0 +1,19 @@
+Vertexlitgeneric
+{
+$basetexture "pwb2/models/weapons/v_asval/asval_d"
+$bumpmap "pwb2/models/weapons/v_asval/asval_n"
+$phongexponenttexture "pwb2/models/weapons/v_asval/asval_s"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.005 0.005 0.005 ]"
+
+	"$phong"     "1"
+	"$phongboost"   "0.25"
+	"$phongfresnelranges"		"[1 5 8]"
+	"$phongtint"                    "[.8 1 1.2]"
+	
+	"$rimlight" 		"1"
+	"$rimlightexponent" 		"45"	
+	"$rimlightboost"		"0.05"
+	"$rimmask" 		"1"
+}

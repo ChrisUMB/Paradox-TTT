@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"pwb2/models/weapons/v_deserteagle/deagd"
+	"$bumpmap"			"pwb2/models/weapons/v_deserteagle/deagn"
+	"$phongexponenttexture"		"pwb2/models/weapons/v_deserteagle/deage"
+	"$envmap"                       "env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint"                   "[0.035 0.035 0.035]"
+
+	"$phong"				"0.5"
+	"$phongboost"			"0.5"
+	"$phongfresnelranges"		"[.5 6 10]"
+	"$phongtint"                    "[.8 1 1.2]"
+	"$phongalbedotint"			"1"
+//	"$phongalbedoboost"		"1"
+	
+	$rimlight               1
+	$rimlightexponent       95
+	$rimlightboost          0.05	
+	$halflambert 1
+}

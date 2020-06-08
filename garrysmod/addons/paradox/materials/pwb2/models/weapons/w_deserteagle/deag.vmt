@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"pwb2/models/weapons/v_deserteagle/deagd"
+	"$bumpmap"			"pwb2/models/weapons/v_deserteagle/deagn"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"pwb2/models/weapons/v_ithaca37stakeout/icarus_diffuse"
+	"$bumpmap"			"pwb2/models/weapons/v_ithaca37stakeout/icarus_normal"
+}

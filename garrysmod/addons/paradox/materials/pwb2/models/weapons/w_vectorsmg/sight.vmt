@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$basetexture   "pwb2/models/weapons/v_vectorsmg/sight_diff"
+$bumpmap   "pwb2/models/weapons/v_vectorsmg/sight_norm"
+}

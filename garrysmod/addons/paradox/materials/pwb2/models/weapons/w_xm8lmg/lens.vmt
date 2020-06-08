@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "pwb2/models/weapons/v_xm8lmg/Lens"
+	"$translucent" "1"
+	"$bumpmap" "pwb2/models/weapons/v_xm8lmg/Lens_Normal"
+}

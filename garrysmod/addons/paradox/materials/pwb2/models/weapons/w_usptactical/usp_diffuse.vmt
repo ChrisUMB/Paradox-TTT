@@ -1,0 +1,5 @@
+"Vertexlitgeneric"
+{
+   	"$basetexture"                  "pwb2/models/weapons/v_usptactical/USP_diffuse"
+    	"$bumpmap"                      "pwb2/models/weapons/v_usptactical/USP_normal"
+}

@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$baseTexture" "pwb2/models/weapons/v_m249paratrooper/front"
+	"$bumpmap"		"pwb2/models/weapons/v_m249paratrooper/front norm"
+}

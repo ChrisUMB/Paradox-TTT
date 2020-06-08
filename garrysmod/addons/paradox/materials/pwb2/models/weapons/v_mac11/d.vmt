@@ -1,0 +1,24 @@
+"Vertexlitgeneric"
+{
+	"$basetexture"  "pwb2/models/weapons/v_mac11/mac11_d"
+	"$bumpmap"     "pwb2/models/weapons/v_mac11/mac11_n"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .05 .05 .05 ]"
+	"$nocull" "1"
+
+	"$phong"     "1"
+	"$phongboost"   "3"
+	"$phongfresnelranges"      "[.5 1.5 3]"
+	"$phongtint"                   "[.2 .2 .2]" 
+	"$phongexponenttexture" 	"pwb2/models/weapons/v_mac11/mac11_g"
+	"$phongalbedotint"		"1"
+	"$phongalbedoboost" 	"14"
+	"$halflambert" 		"1"
+
+	"$rimlight" 	"1"
+	"$rimlightexponent" 	"66"	
+	"$rimlightboost"	"0.6"
+	"$rimmask" 	"1"
+}

@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "pwb2/models/weapons/v_rpk/mag_d"
+	"$bumpmap" "pwb2/models/weapons/v_rpk/mag_n"
+}

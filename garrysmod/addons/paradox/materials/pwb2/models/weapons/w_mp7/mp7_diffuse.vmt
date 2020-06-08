@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+     	$basetexture 		"pwb2/models/weapons/v_mp7/mp7_diffuse"
+     	$bumpmap 		"pwb2/models/weapons/v_mp7/mp7_bump"
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$basetexture" "pwb2/models/weapons/v_m60/fore"
+"$alphatest" "1"
+"$translucent" "1"
+}
+

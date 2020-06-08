@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 			"pwb2/models/weapons/v_fiveseven/red dot_green"	
+	"$bumpmap" 			"pwb2/models/weapons/v_fiveseven/red dot_green_Normal"
+}

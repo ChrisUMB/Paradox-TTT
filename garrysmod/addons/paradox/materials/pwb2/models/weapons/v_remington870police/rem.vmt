@@ -1,0 +1,23 @@
+"Vertexlitgeneric"
+{
+"$basetexture""pwb2/models/weapons/v_remington870police/remi_diffuse"
+"$bumpmap""pwb2/models/weapons/v_remington870police/remi_normal"
+"$phongexponenttexture" "pwb2/models/weapons/v_remington870police/remi_gloss"
+"$nocull" "1"	
+"$normalmapalphaenvmapmask" "1"
+"$envmap" "env_cubemap"
+"$envmaptint" "[ 0.01 0.01 0.02 ]"
+"$selfillum" "1"
+
+"$phong"     "1"
+"$phongexponent"  "30"
+"$phongboost"   "0.8"
+"$phongfresnelranges"   "[1 9 3]"
+"$phongtint"                   "[0.7 0.9 1]" 
+"$phongalbedotint" "1"
+"$halflambert" "1"
+
+"$rimlight" "1"
+"$rimlightexponent" "26"
+"$rimlightboost" "0.2"
+}

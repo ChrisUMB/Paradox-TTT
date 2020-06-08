@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$basetexture   "pwb2/models/weapons/v_vectorsmg/body_diff"
+$bumpmap   "pwb2/models/weapons/v_vectorsmg/body_norm_env_y_v3"
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 			"pwb2/models/weapons/v_fiveseven/red dot_lens1"	
+	"$bumpmap" 			"pwb2/models/weapons/v_fiveseven/red dot_lens1_N"
+	$nocull 		"1"
+	$additive 		1
+
+}

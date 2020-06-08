@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 			"pwb2/models/weapons/v_fiveseven/FN57_diff"	
+	"$bumpmap" 			"pwb2/models/weapons/v_fiveseven/FN57_n"
+}

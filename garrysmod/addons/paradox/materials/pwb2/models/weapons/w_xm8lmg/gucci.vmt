@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"pwb2/models/weapons/v_xm8lmg/Gucci"
+	"$bumpmap" "pwb2/models/weapons/v_xm8lmg/gucci_normal"
+}

@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+$basetexture   "pwb2/models/weapons/v_p90/body_diff"
+$bumpmap   "pwb2/models/weapons/v_p90/body_norm"
+
+$phong 1
+$phongboost 2
+$phongfresnelranges "[0.5 0.5 0.5]"
+$phongtint "[1 1 1]"
+$phongexponenttexture "pwb2/models/weapons/v_p90/body_spec"
+
+$envmap                         env_cubemap
+$envmaptint                     "[.05 .05 .05]"
+$normalmapalphaenvmapmask 1
+
+$rimlight 1
+$rimlightexponent 1
+$rimlightboost 0
+$rimmask 1
+
+}
